@@ -1,0 +1,3 @@
+-if(?MODULE == luerl_heap).
+-include("autopatches/luerl_heap.1").
+-endif.
